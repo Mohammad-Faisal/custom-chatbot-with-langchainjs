@@ -3,7 +3,7 @@
 First, clone the repository and add a `.env` file in the root directory with the following content:
 
 ```bash
-PORT=4000
+OPENAI_API_KEY = "YOUR_API_KEY_HERE"
 ```
 
 Then, run the following command to install dependencies.

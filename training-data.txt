@@ -1,0 +1,85 @@
+Software Engineer Level-3 (Remote)
+Cruise LLC
+:
+March 2022 - Present
+Role
+Member of DASH team that is responsible for monitoring the entire driverless fleet
+Writing API, unit tests, code review, preparing design documents and performance improvement
+Accomplishments
+Designed an easier way to record incidents for driverless vehicles by automating the note recording process
+Improved performance of the front-end application of Starfleet and refactoring legacy code to use modern typescript
+Wrote NodeJS API for the fleet-ops application and delivered new API for various features
+Technologies
+NodeJS
+ReactJS
+Typescript
+GCP
+PostgreSQL
+Kubernetes
+Senior Software Engineer (Remote)
+Advanced Mobility Analytics
+:
+February 2021 - February 2022
+Role
+Member of Survey Team that is responsible for creating advanced road safety monitoring tool
+Designing front-end components, writing API, unit tests, code review, preparing design documents and performance improvement
+Accomplishments
+Participated in designing and building the AMAG-Survey application by designing and creating features
+Regular bug solving and feature development using ReactJS on the front-end
+Working on AMAG-CSO application to create new features and refactor legacy code
+Technologies
+NodeJS
+ReactJS
+Typescript
+AWS
+Serverless
+Lambda
+DynamoDB
+S3
+Software Engineer
+DMoney Bangladesh
+:
+November 2019 - February 2021
+Role
+Member of MFS team that was responsible for designing the mobile financial system for one of the largest banks of the country
+Designing front-end components, writing backend API, preparing design documents and refactoring legacy code
+Accomplishments
+Participated in designing and building the mfs-portal application from scratch
+Regular bug solving and feature development using ReactJS on the front-end
+Working on Core financial engine to create new API and refactor legacy code
+Technologies
+ReactJS
+Typescript
+Software Engineer
+Dingi Technologies Limited
+:
+May 2018 - October 2019
+Role
+Member of Maps team that was responsible for building the map sdk for web and mobile
+Designing front-end components, creating SDK, feature testing and refactoring legacy code
+Accomplishments
+Participated in designing and building the map sdk for web using Mapbox
+Worked on creating the vehicle tracking systems for the end users
+Designed and built the Customer management portal for public
+Technologies
+ReactJS
+NodeJS
+AWS
+Software Engineer
+Rokkhi Ltd
+:
+June 2016 - April 2018
+Role
+Member of Core that was responsible for building flagship home security product
+Designing front-end components, writing API, Creating CI/CD pipelines, feature testing
+Accomplishments
+Participated in designing and building the home security solution for web users
+Worked on creating the CI/CD pipeline using AWS for the backend
+Designed and built customer facing management panel
+Technologies
+ReactJS
+NodeJS
+NestJS
+AWS
+Typescript
+PostgreSQL
